@@ -12,7 +12,7 @@
   "WEI_COST": 20000000000000000.0000,
   "DISPLAY_COST": 0.02,
   "gasPrice": 36,
-  "GAS_LIMIT":  1400000,
+  "GAS_LIMIT":  140000000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/hikagenfts",
   "SHOW_BACKGROUND": true
